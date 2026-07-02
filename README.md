@@ -1,5 +1,5 @@
 # Heavenly Bites API 🍰
-Backend REST API for my Heavenly Bites cafe website, a dessert and drinks menu project I built while learning Full Stack Web Development at IIT Jammu Summer School.
+Backend REST API for my Heavenly Bites cafe website, a dessert and beverages menu project I built while learning Full Stack Web Development at IIT Jammu Summer School 2026.
 The frontend is still a work in progress. Once I learn databases and authentication properly, I want to make this a fully working cafe website with a cart and 
 order system!
 
@@ -17,4 +17,3 @@ order system!
 . PUT /desserts/:id — update a dessert
 . DELETE /desserts/:id — delete a dessert
 
-# IIT Jammu Summer School (Full Stack Web Development — 2026)

@@ -13,7 +13,7 @@ order system!
 - dotenv for environment variables
 
 # API Routes
-- GET /desserts — fetch all desserts
-- POST /desserts — add a new dessert
-- PUT /desserts/:id — update a dessert
-- DELETE /desserts/:id — delete a dessert
+- GET /desserts - fetch all desserts
+- POST /desserts - add a new dessert
+- PUT /desserts/:id - update a dessert
+- DELETE /desserts/:id - delete a dessert
